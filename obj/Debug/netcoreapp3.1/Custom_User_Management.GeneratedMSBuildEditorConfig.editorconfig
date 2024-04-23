@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Custom_User_Management
+build_property.ProjectDir = D:\.NET_CORE\Custom_User_Management\Custom_User_Management\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
